@@ -16,7 +16,7 @@ youtube：https://youtu.be/eBLLTk9mIE4
 | ![Station office](docs/images/station-office.jpg) | ![Konbini](docs/images/konbini.jpg) |
 
 
-🔗 在线体验 · Live Demo: [https://hgbhh258-spec.github.io/sakuragaoka-station/](https://hgbhh258-spec.github.io/sakuragaoka-station/)
+🔗 在线体验 · Live Demo: [https://hgbhh258-spec.github.io/sakuragaoka-station/](https://hgbhh258-spec.github.io/yingqiuzhan/)
 
 ## 原作者 · Original Author
 
